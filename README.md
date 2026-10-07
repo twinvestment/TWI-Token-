@@ -41,6 +41,22 @@ The project cap is structured into 4 sequential phases of 5,000,000 USDT each:
 
 ---
 
+## contract : 
+0x9D672Ede12EC5A367daFe6226EFEc2f37C6B4BCE
+
+## etherscan:
+https://etherscan.io/token/0x9D672Ede12EC5A367daFe6226EFEc2f37C6B4BCE
+
+## BUY dirct
+https://app.uniswap.org/swap?outputCurrency=0x9D672EdeC6fE7b7381db2b4dbB5441a1B7B4BCE
+
+## WEBsite:
+https://tourismworldinvestment.com/
+
+## NFT
+https://opensea.io/collection/twi-tourism-world-investment
+
+
 ##  Legal & Regulatory Compliance (Organizer: Petra Coin LLC)
 
 The project is managed and operated by **Petra Coin LLC**, fully compliant with regulatory frameworks in the United States:

@@ -51,7 +51,7 @@ https://etherscan.io/token/0x9D672Ede12EC5A367daFe6226EFEc2f37C6B4BCE
 https://app.uniswap.org/swap?outputCurrency=0x9D672EdeC6fE7b7381db2b4dbB5441a1B7B4BCE
 
 ## WEBsite:
-https://tourismworldinvestment.com/
+https://twiinvestment.com/
 
 ## NFT
 https://opensea.io/collection/twi-tourism-world-investment
@@ -69,7 +69,7 @@ The project is managed and operated by **Petra Coin LLC**, fully compliant with 
   * **Tax EIN:** 42-2413651
 * **Financial Regulatory Registration (FinCEN MSB):** 
   * **Registration Number:** 31000341398035
-  * **Authorization:** Money Services Business (MSB) for Money Transmission, Foreign Exchange, and service payment settlements.
+  * **Registration:** Money Services Business (MSB) for Money Transmission, Foreign Exchange, and service payment settlements.
 
 ---
 
